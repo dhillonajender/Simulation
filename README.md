@@ -10,9 +10,9 @@ The service time of the customers is exponentially distributed with a mean of 10
 Maximum number of customers i.e. queue length is 10.
 
 The output should display the following – 
-• All details of each customer .i.e arrival time, service time, waiting time, departure time, queue, teller served.
-• Total customers arrived 
-• Number of customer left without being served 
-• Number of customers served 
-• Average waiting time and Average service time 
+1. All details of each customer .i.e arrival time, service time, waiting time, departure time, queue, teller served.
+2. Total customers arrived 
+3. Number of customer left without being served 
+4. Number of customers served 
+5. Average waiting time and Average service time 
 
