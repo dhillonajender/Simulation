@@ -19,9 +19,9 @@ In order to simulate this system on JAVA. We made four classes-
 1. Project_Main2.java
 
 It is the main class of our program in which we have initialized all the variables and provided the main logics for the flow of the system. In this class, we have made 3 main methods-
-• Initialization – In this method all the variables are initialized and their value is set as zero.
-• Simulation – This method contains the main flow of the system. As the customer arrives, it first checks for the length of the waiting queue, if it has not reached its maximum limit then puts the customer in queue, calculates its arrival time and waiting time and then the service is provided to the customer while calculating its departure time.
-• Report Generation – This method prints all the desired output values.
+1. Initialization – In this method all the variables are initialized and their value is set as zero.
+2. Simulation – This method contains the main flow of the system. As the customer arrives, it first checks for the length of the waiting queue, if it has not reached its maximum limit then puts the customer in queue, calculates its arrival time and waiting time and then the service is provided to the customer while calculating its departure time.
+3. Report Generation – This method prints all the desired output values.
 Other than these three methods, it contains the exponential function method, customer time data method and main method which calls the three main functions.
 
 2. BankArea.java
