@@ -1,7 +1,6 @@
 # Simulation
 Multi Server multi queue banking system
 
-Description:
 Simulating the multi-server bank queuing system for maximum simulation length of 9999 time units. The bank has 5 tellers and 2 customer queue, where customers arrive randomly and walk into the queues.
 The arriving customer will enter that queue, having shorter queue length so that the waiting time of the customers is reduced. However, when customers walks into the queues, the customers will get served by the tellers who are idle whereas the customers in the waiting queues must wait till a teller becomes idle.
 
