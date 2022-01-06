@@ -15,7 +15,7 @@ The output should display the following –
 4. Number of customers served 
 5. Average waiting time and Average service time 
 
-In order to simulate this system on JAVA. We made four classes-
+In order to simulate this system with JAVA. We made six classes-
 1. Project_Main2.java
 
 It is the main class of our program in which we have initialized all the variables and provided the main logics for the flow of the system. In this class, we have made 3 main methods-
