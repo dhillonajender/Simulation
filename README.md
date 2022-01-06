@@ -40,6 +40,6 @@ This class is used for all the customer related calculations. This class contain
 
 This class is used for defining events and its attributes.This class contains the constructor and the getter – setter methods to access or set the values of various attributes related to event.
 
-6.PrintStatistics.java
+6. PrintStatistics.java
 
-This class is used for defining printable number.This class contains the constructor and the getter – setter methods to access or set the values of various attributes related to event.
+This class is used for defining a prinatble instance for each cumstomer.This class contains the constructor and the getter – setter methods to access or set the values of various attributes related to a customer that can be used for printing purpose.
