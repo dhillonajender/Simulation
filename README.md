@@ -18,7 +18,7 @@ The output should display the following –
 In order to simulate this system with JAVA. We made six classes-
 1. Project_Main2.java
 
-It is the main class of our program in which we have initialized all the variables and provided the main logics for the flow of the system. In this class, we have made 3 main methods-
+It is the main class of the program in which I have initialized all the variables and provided the main logics for the flow of the system. In this class, I have made 3 main methods-
 (a). Initialization – In this method all the variables are initialized and their value is set as zero.
 (b). Simulation – This method contains the main flow of the system. As the customer arrives, it first checks for the length of the waiting queue, if it has not reached its maximum limit then puts the customer in queue, calculates its arrival time and waiting time and then the service is provided to the customer while calculating its departure time.
 (c). Report Generation – This method prints all the desired output values.
@@ -26,7 +26,7 @@ Other than these three methods, it contains the exponential function method, cus
 
 2. BankArea.java
 
-It is the class that manages all the queues. We use different queues to manage the waiting customers, customers under service, free tellers and busy tellers.
+It is the class that manages all the queues. I use different queues to manage the waiting customers, customers under service, free tellers and busy tellers.
 
 3. Teller.java
 
